@@ -1,13 +1,7 @@
-In a terminal:
-1. First clone the repo
-```
-git clone git@github.com:nholaday/bvb_stats.git
-```
+# Beach Volleyball Stats Generator
+This script takes in a text file of beach vb raw player actions and generates stats.
 
-Change directory into the the project, then run by supplying the file name as an argument
-``` 
-python bvbstats.py 05-04-23-stats.txt
-```
+## Example input/output
 
 Example input can be seen in the `.txt` file but it looks like this:
 ```
@@ -47,4 +41,16 @@ Here is an example output that it gives:
        'serve': ['1', '1', '4', '4'],
        'set': ['3', '3', '3', '3', '3', '2', '3', '3', '2', '2'],
        'sideout': []}}
+```
+
+## Running instructions
+In a terminal:
+1. First clone the repo
+```
+git clone git@github.com:nholaday/bvb_stats.git
+```
+
+Change directory into the the project, then run by supplying the file name as an argument
+``` 
+python bvbstats.py 05-04-23-stats.txt
 ```
