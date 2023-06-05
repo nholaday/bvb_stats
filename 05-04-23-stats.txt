@@ -1,0 +1,38 @@
+N 1jfs A 3p T 3s A 1sl
+T 1jfs N 3p S 3s N 1kl
+S 2.5jfs T 0.5p N 1b
+S 1jfs T 3p A 3s T 0hda S 0.5d A 3p T 3p A 1hda
+A 1jfs S 3p N 3s S 0sl A 2b
+A 2jfs N 1p S 1s N 0sl A 3p T 3s A 1hda
+A 1jfs S 3p N 3s S 1sl
+N 1jfs T 3p A 3s T 1sl
+T 1jfs N 3p S 3s N -1sl
+T 1.5jfs S 2p N 2s S 1sa
+S 4jfs A 0p
+S 0jfs
+A 1jfs N 3p S 3s N 1sc
+N 1jfs A 3p T 3s N 1d S 2s N 0sl A 3p T 3s A 0sl S 2p N 2s S -1hda
+T 0jfs
+S 1jfs T 3p A 2s T 0hdl S 3d N 0.5s A 1b
+A 1.5jfs S 2p N 3s S 0sl A 3d T 3s A 1sl
+A 4jfs N 0p
+A 1jts S 3p N 3s S 1hda
+N 1.5jfs A 2p T 2s A 0sa N 2d S 3s N -1sl A 1b
+T 4jfs S 0p
+T 4jfs S 0p
+T 0jfs
+S 2.5jfs T 0.5p N 1b
+S 1jfs A 3p T 3s A -1hda
+S 1.5jfs A 2p T 3s A 1hdl
+A 0jfs
+N 1.5jfs A 2p T 2s A 1sa
+T 1.5jfs N 2p S 3s N 1hda A 0.5b T 1d A 0fb S 3d N 1sa
+S 0jfs
+A 0jfs
+N 1.5jfs T 2p A 3s T 0sl N 2d S 3s N 1sl
+N 0jfs
+T 0jfs
+S 1.5jfs T 2p A 3s T 1hda
+A 1.5jts N 2p S 2s N -1hda
+A 2jfs N 1p S 0.5s A 2d T 2s A 0sa S 3p N 3s S 1hda
+N 1jfs T 3p A 1hdl
