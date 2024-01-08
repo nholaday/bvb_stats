@@ -3,7 +3,7 @@ NsE3p0s
 NsF3p3s0h N1p0h F3p2s N2p3s1h
 NsE2p3s1h
 FsJ3p3s1h
-JsE3p3s1h 
+JsE3p3s1h
 EsJ3p3s0h E1h
 EsJ1p0s
 EsJ1p2s1h
@@ -19,7 +19,7 @@ Ese
 NsF2p2s1h
 FsJ3p3s1h
 JsF2p3s1h
-EsJ3p2s-1h Eb
+EsJ3p2s-1h E1b
 Ese
 NsF1p2s-1h
 NsF3p3s0h JbJ3s-1h
@@ -33,7 +33,7 @@ EsN3p3s1h
 NsF2p1sFe
 NsF3p3s-1h
 NsF3p3s-1h
-NsF3p3s-1h Jb
+NsF3p3s-1h J1b
 NsF3p3s1h
 Fse
 Jse
